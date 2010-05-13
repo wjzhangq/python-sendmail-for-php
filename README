@@ -1,0 +1,2 @@
+执行chmod +x sendmail.py
+将php.ini 中sendmail_path="sendmail.py -f /tmp/a.sqlite"
