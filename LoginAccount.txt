@@ -1,0 +1,21 @@
+#[mailClient]
+#host = smtp.qq.com
+#port = 25
+#user = ***
+#pass = ***
+#fr = no.0023@qq.com
+#to = no.0023@gmail.com
+#debuglevel = True
+#login = True
+#starttls = False
+
+[mailClient]
+host = smtp.gmail.com
+port = 587
+user = xxx
+pass = xxx
+fr = xxx
+to = xx
+debuglevel = True
+login = True
+starttls = True
